@@ -1,0 +1,28 @@
+{
+  "name": "lazy-iterations",
+  "version": "1.0.0",
+  "description": "Lazy iterations for JavaScript",
+  "main": "lazy-iterations.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cinques/lazy-iterations.git"
+  },
+  "keywords": [
+    "js",
+    "lazy",
+    "map",
+    "filter"
+  ],
+  "author": "Artem Kuznetsov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cinques/lazy-iterations/issues"
+  },
+  "homepage": "https://github.com/cinques/lazy-iterations#readme",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
