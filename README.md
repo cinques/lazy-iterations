@@ -1,5 +1,7 @@
 # Lazy iterations for JavaScript
 
+A Transducers implementation for JavaScript with a beautiful code style
+
 ## Classic style
 ```js
 [0,1,2,3,4]
